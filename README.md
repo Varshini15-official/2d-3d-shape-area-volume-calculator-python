@@ -80,4 +80,4 @@ This project provides a user-friendly interface to:
    python main.py
 
 ## 👩‍💻 Author
-- Developed by Varshini15-official and sahana634official 
+- Developed by Varshini15-official, sahana634official and chinmayii09
